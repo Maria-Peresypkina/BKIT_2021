@@ -1,5 +1,5 @@
-from lab_python_oop.figure import Figure
-from lab_python_oop.color import FigureColor
+from .figure import Figure
+from .color import FigureColor
 
 
 class Rectangle(Figure):
