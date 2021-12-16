@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2e996ef-405f-494d-891c-6327bf525919" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../RK2/RK2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../RK2/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test/bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test/dbworker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mock_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TDD_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BDD_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testing.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lab6/bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lab6/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lab6/dbworker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pythonProject/bot.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="22N6tJoG8WOutNZy4PkEOVkXM83" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../lab4_code" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2e996ef-405f-494d-891c-6327bf525919" name="Changes" comment="" />
+      <created>1639665910647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639665910647</updated>
+    </task>
+    <servers />
+  </component>
+</project>
