@@ -1,17 +1,15 @@
 from enum import Enum
 
-# Токент бота
-TOKEN = "5015617089:AAHDaX6zRPxORWEcZsPgMweqHNWKke4X82g"
+token = "5015617089:AAHDaX6zRPxORWEcZsPgMweqHNWKke4X82g"
+db_file = "database.vdb"
 
-# Файл базы данных Vedis
-db_file = "db.vdb"
 
-# Ключ записи в БД для текущего состояния
-CURRENT_STATE = "CURRENT_STATE"
-
-# Состояния автомата
 class States(Enum):
-    STATE_START = "STATE_START"  # Начало нового диалога
-    S_ENTER_NAME = "S_ENTER_NAME"
-    S_ENTER_AGE = "S_ENTER_AGE"
-    S_SEND_PIC = "S_SEND_PIC"
+    """
+    Мы используем БД Vedis, в которой хранимые значения всегда строки,
+    поэтому и тут будем использовать тоже строки (str)
+    """
+    S_START = "0"  # Начало нового диалога
+    S_ENTER_NAME = "1"
+    S_ENTER_AGE = "2"
+    S_SEND_PIC = "3"
